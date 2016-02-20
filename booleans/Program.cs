@@ -9,8 +9,8 @@ namespace booleans
 			bool content = true;
 			bool noContent = false;
 
-			Console.WriteLine("It is {0} that C# provides programming language content.", content);
-			Console.WriteLine("That is not {0}.", noContent);
+			Console.WriteLine("\tIt is {0} that C# provides programming language content.", content);
+			Console.WriteLine("\tThat is not {0}.", noContent);
 		}
 	}
 }
